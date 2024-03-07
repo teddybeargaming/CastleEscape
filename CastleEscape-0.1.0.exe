@@ -1,0 +1,5 @@
+print ("Castle Escape 1.0.0 © 2024 teddybeargaming")
+XP = 10
+if XP >= 90 print "Your Skill Level = Master of Theivery"
+elif XP >= 50 print "Your Skill Level = Improver"
+else print "Your Skill Level = Newcomer"
